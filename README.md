@@ -1,5 +1,7 @@
 # telescope.nvim
 
+test
+
 Gaze deeply into unknown regions using the power of the moon.
 
 ![Finding Files](https://raw.githubusercontent.com/tjdevries/media.repo/master/telescope.nvim/simple_rg_v1.gif)
